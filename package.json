@@ -1,0 +1,31 @@
+{
+  "name": "mean-ang2",
+  "version": "1.0.0",
+  "description": "MEAN Stack with Angular 4 tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavankd/MEAN-stack-with-Angular-4-tutorial.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angualr",
+    "4",
+    "Application"
+  ],
+  "author": "Pavan Dasari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavankd/MEAN-stack-with-Angular-4-tutorial/issues"
+  },
+  "homepage": "https://github.com/pavankd/MEAN-stack-with-Angular-4-tutorial#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.11.1"
+  }
+}
